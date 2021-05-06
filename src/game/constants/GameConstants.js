@@ -3,7 +3,7 @@ define( function () {
 
 		gameSpeedCamp: 1,
 		gameSpeedExploration: 1,
-		isDebugVersion: false,
+		isDebugVersion: true,
 		isCheatsEnabled: true,
 		isAutosaveEnabled: true,
 		
